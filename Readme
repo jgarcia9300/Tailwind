@@ -3,3 +3,5 @@ npm i -D tailwindcss
 npx tailwindcss init
 npm run build       
 npm run watch       
+
+51:30
